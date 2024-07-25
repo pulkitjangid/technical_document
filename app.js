@@ -9,7 +9,9 @@ app.use(cors());
 
 const app = express();
 
+app.use(cors()); // Allow cross-origin requests
 app.use(express.urlencoded({ extended: true }));
+app.use(express.json()); // Handle JSON payloads
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
