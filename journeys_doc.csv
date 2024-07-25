@@ -1,0 +1,38 @@
+Sl_No,Id,Journey Name,Description
+1,668f9a6ddf3728fd014447b8,Bulk Order Query,Bulk Order Query
+2,668f9a6ddf3728f8664447a2,Verify OTP,Verify OTP
+3,668f9a6ddf3728f2004447bc,Order Status,Order Status
+4,668f9a6ddf3728e5394447be,Update Profile,Update Profile
+5,668f9a6ddf3728d9ca4447b2,Change Address,Show List of Addresses and proceed to Change Address
+6,668f9a6ddf3728d75a4447ac,Renew Subscription Payment,Renew Subscription Payment Link Generation
+7,668f9a6ddf3728ce034447a8,Renew Subscription Razorpay,Renew Subscription Pay
+8,668f9a6ddf3728cb1f4447aa,New Subscription,New Subscription
+9,668f9a6ddf3728baaf4447cc,Not Registered User,Not Registered User
+10,668f9a6ddf3728b5ea4447dc,Renew Subscription,Renew Subscription
+11,668f9a6ddf3728af854447a4,Purchase History,View Purchase History
+12,668f9a6ddf37289be54447ba,FAQ List,FAQ List
+13,668f9a6ddf37289b2d4447e0,Fallback,
+14,668f9a6ddf37288ec34447a6,Place Order clone,Place Order Clone
+15,668f9a6ddf37287ef64447d6,Welcome,
+16,668f9a6ddf37287dd64447d8,Change Magazine,Change Magazine
+17,668f9a6ddf37287a7c4447da,feedback,feedback
+18,668f9a6ddf372877e24447b0,End Chat,End Chat
+19,668f9a6ddf3728661b44479a,Main Menu clone,Main Menu
+20,668f9a6ddf372864214447d2,Contact Us,Contact Us
+21,668f9a6ddf37285d414447ae,Subscriber Data Extractor,Subscriber Data Extractor for Renew Subscriptions 
+22,668f9a6ddf37285b904447d0,Whats Next,What Would You Like to Do Next?
+23,668f9a6ddf372856fd4447d4,Bot feedback with emojis,
+24,668f9a6ddf37284f854447a0,Chat Transfer Event,Chat Transfer Event Message
+25,668f9a6ddf37284d774447c4,Fetch All Magazines,Fetch All Magazines
+26,668f9a6ddf37284be74447ce,Main Menu,Main Menu
+27,668f9a6ddf372849be4447c2,Place Order,Place Order
+28,668f9a6ddf372834804447de,Change Language,
+29,668f9a6ddf372831fd4447ca,Get Magazines List,Get Magazines List
+30,668f9a6ddf37282fbf44479c,Close Ticket,Close Ticket
+31,668f9a6ddf37281ec84447e2,chat with agent,"Collect user name, email and raise a ticket to an agent"
+32,668f9a6ddf37281cdf4447b4,Razorpay Init,Razorpay Init
+33,668f9a6ddf37281b624447c8,Live Agent,Connect to Live Agent
+34,668f9a6ddf372816704447c6,Get Subscriber Info,Get Subscriber Info
+35,668f9a6ddf372810d244479e,Ticket update Message,ticket-update
+36,668f9a6ddf37280fda4447b6,FAQ Followup,FAQ Followup
+37,668f9a6ddf372803af4447c0,Payment Event,Payment Event
