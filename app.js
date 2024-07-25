@@ -70,7 +70,7 @@ app.post('/generate', async (req, res) => {
     await archive.finalize();
 
   } catch (error) {
-    console.error(error);
+    console.error(error.message);
     res.status(400).json({ error: error.message || 'Internal Server Error' });
   }
 });
