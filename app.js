@@ -4,6 +4,9 @@ const { createObjectCsvWriter } = require('csv-writer');
 const fs = require('fs');
 const archiver = require('archiver');
 const path = require('path');
+const cors = require('cors');
+app.use(cors());
+
 const app = express();
 
 app.use(express.urlencoded({ extended: true }));
